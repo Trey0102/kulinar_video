@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    >
+
+
+    <RadioGroup
+        android:id="@+id/search_type_radiogroup"
+        android:layout_width="match_parent"
+        android:layout_height= "wrap_content"
+        android:background="#3B2E28"
+        android:orientation="horizontal"
+        android:gravity="center"
+        >
+
+        <RadioButton
+            android:id="@+id/search_by_ingredient_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="По ингредиентам"/>
+        <RadioButton
+            android:id="@+id/search_by_name_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="По названию"/>
+
+    </RadioGroup>
+    <FrameLayout
+        android:id="@+id/search_input_container"
+        android:layout_below="@+id/search_type_radiogroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <com.aristocrat.cooking.AutoBoxView
+        android:id="@+id/autoboxview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Введите ингредиенты"
+        android:gravity="center_vertical"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="20dp"
+
+        />
+    <EditText
+        android:id="@+id/search_by_name_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Введите название"
+        android:gravity="center_vertical"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="20dp"
+        />
+    </FrameLayout>
+    <TextView
+        android:id="@+id/autoboxview_count"
+        android:layout_below="@+id/search_input_container"
+        android:layout_width="match_parent"
+        android:background="#aaffffff"
+        android:textColor="#830f0f"
+        android:visibility="gone"
+        android:layout_height="wrap_content"
+        android:text="Найдено рецептов: 43"/>
+
+
+
+    <ListView
+        android:layout_below="@+id/autoboxview_count"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/list"
+        android:cacheColorHint="#00000000"
+        android:animationCache="false"
+        android:scrollingCache="false"
+        >
+
+    </ListView>
+
+</RelativeLayout>

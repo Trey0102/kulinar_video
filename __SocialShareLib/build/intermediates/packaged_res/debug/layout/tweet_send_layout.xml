@@ -1,0 +1,117 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:layout_centerInParent="true"
+    android:layout_gravity="center">
+
+    <RelativeLayout
+        android:id="@+id/tweetDialogHeader"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/twi_share_blue">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="48dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_action_twitter_bird_icon"
+                android:scaleType="fitCenter"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/tweet_dialog_title"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:gravity="center_vertical"
+                android:layout_marginLeft="6dp"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:orientation="horizontal">
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:layout_margin="@dimen/vk_share_top_line_margin"
+                android:background="#3fff" />
+
+            <ProgressBar
+                android:id="@+id/twi_dlg_progress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"/>
+
+            <Button
+                android:id="@+id/twi_dlg_send"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/vk_share_send_button_background"
+                android:drawableLeft="@drawable/ic_ab_done"
+                android:textColor="@color/white"
+                android:paddingRight="6dp"
+                android:text="@string/tweet_dialog_button_send"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/tweetDialogContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:layout_below="@+id/tweetDialogHeader"
+        >
+        <EditText
+            android:id="@+id/tweetEditText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/tweet_hint"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:maxLength="140"
+            android:textColor="@color/black">
+
+            <requestFocus />
+        </EditText>
+
+        <HorizontalScrollView
+            android:id="@+id/imagesScrollView"
+            android:layout_width="wrap_content"
+            android:layout_height="128dp"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:id="@+id/imagesLinearLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+        <TextView
+            android:id="@+id/charCounter"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:textSize="16sp"
+            android:text="140"
+            android:textColor="@color/black"
+            android:layout_gravity="right"
+            android:gravity="center"
+            android:layout_margin="8dp"
+            />
+    </LinearLayout>
+</RelativeLayout>

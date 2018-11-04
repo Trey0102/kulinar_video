@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:padding="9dp"
+    >
+    <RelativeLayout
+        android:id="@+id/cardshadow"
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:background="@drawable/cardshadow"
+        >
+    </RelativeLayout>
+    <RelativeLayout
+
+
+        android:id="@+id/singlecard"
+        android:layout_width="match_parent"
+        android:layout_height="165dp"
+        android:background="@drawable/cardfadegradient"
+        >
+
+        <LinearLayout
+            android:id="@+id/cardinfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            >
+            <RelativeLayout
+                android:id="@+id/singlepiccontainer"
+                android:layout_width="80dp"
+                android:layout_height="100dp"
+                android:layout_margin="10dp"
+                android:layout_weight="1">
+            <ImageView
+                android:id="@+id/singlepic"
+                android:layout_width="80dp"
+                android:layout_height="100dp"
+                android:scaleType="centerCrop"
+               />
+                <ImageView
+                    android:id="@+id/singlepicframe"
+                    android:layout_width="80dp"
+                    android:layout_height="100dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/frame"
+                    />
+            </RelativeLayout>
+            <TextView
+                android:id="@+id/singletxt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="30"
+                android:textColor="#493322"
+                android:textSize="20sp"
+                android:ellipsize="end"
+                android:maxLines="4"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="10dp"/>
+            </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/singlebottom"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:background="#830f0f">
+            <ImageView
+                android:id="@+id/singlefavbtn"
+                android:layout_width="70dp"
+                android:layout_height="40dp"
+                android:scaleType="fitCenter"
+                android:padding="4dp"
+
+
+                android:src="@drawable/favico"/>
+            <ImageView
+                android:id="@+id/singlemail"
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:scaleType="fitXY"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginRight="15dp"
+                android:src="@drawable/mailicolight"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"/>
+            <ImageView
+                android:id="@+id/singletweet"
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:scaleType="fitXY"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="2dp"
+                android:layout_toLeftOf="@+id/singlemail"
+                android:src="@drawable/twicolight"/>
+            <ImageView
+                android:id="@+id/singlevk"
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:scaleType="fitXY"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="2dp"
+
+                android:layout_toLeftOf="@+id/singletweet"
+                android:src="@drawable/vkicolight"/>
+            <ImageView
+                android:id="@+id/singlefb"
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:scaleType="fitXY"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="2dp"
+                android:layout_toLeftOf="@+id/singlevk"
+                android:src="@drawable/fbicolight"
+                />
+
+
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    <ImageView
+        android:layout_marginTop="1dp"
+        android:id="@+id/badge"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/forumcorner"
+        android:scaleType="fitXY"
+        android:visibility="visible"/>
+
+
+</RelativeLayout>

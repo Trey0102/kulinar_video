@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_please_wait">Пожалуйста подождите</string>
+    <string name="tweet_being_sent">Твит отправляется…</string>
+    <string name="tweet_dialog_button_cancel">Отмена</string>
+    <string name="tweet_dialog_button_send">Твитнуть</string>
+    <string name="tweet_dialog_title">Новый твит</string>
+    <string name="tweet_hint">Введите текст сообщения..</string>
+    <string name="tweet_img_warn">Только 4 изображения за раз</string>
+    <string name="tweet_notification_title">Twitter</string>
+    <string name="tweet_send_failure">Не удалось отправить твит</string>
+    <string name="tweet_send_success">Твит успешно отправлен</string>
+    <string name="twitter_auth_wait">Подтверждаем авторизацию</string>
+    <string name="twitter_logout_text">Вы вышли из аккаунта Twitter</string>
+    <string name="vk_click">Нажмите чтобы посмотреть запись в браузере</string>
+    <string name="vk_enter_captcha_text">Введите текст с картинки</string>
+    <string name="vk_logout">ВК: Вы вышли</string>
+    <string name="vk_new_message_text">Введите текст сообщения..</string>
+    <string name="vk_new_post_settings">Настройки записи</string>
+    <string name="vk_posted">ВК: Запись успешно опубликована</string>
+    <string name="vk_retry">Повторить</string>
+    <string name="vk_send">Отправить</string>
+    <string name="vk_share">Поделиться</string>
+</resources>

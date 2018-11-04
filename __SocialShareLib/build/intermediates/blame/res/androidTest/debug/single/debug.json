@@ -1,0 +1,574 @@
+[
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_com_facebook_button_blue_normal.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_com_facebook_picker_image.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/com_facebook_picker_image.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_logo.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_logo.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_navigation_accept.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/ic_navigation_accept.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_com_facebook_tooltip_bubble.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_picker_list_selector_disabled.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_picker_list_selector_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-ru-xhdpi-v4_ic_ab_app.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-ru-xhdpi-v4/ic_ab_app.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_ic_launcher.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-ldpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_button_blue_normal.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_button_blue_focused.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_button_grey_pressed.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v11_ic_stat_twitter_bird_icon.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v11/ic_stat_twitter_bird_icon.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_action_twitter_bird_icon.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/ic_action_twitter_bird_icon.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_button_grey_normal.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_ab_app.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/ic_ab_app.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_com_facebook_button_blue_pressed.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_com_facebook_placepickerfragment.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/com_facebook_placepickerfragment.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_list_divider.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_list_divider.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_twi_btn_normal.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/twi_btn_normal.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_button_blue_focused.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_button_blue_normal.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_place_default_icon.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_place_default_icon.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_com_facebook_picker_list_row.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/com_facebook_picker_list_row.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_inverse_icon.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_ab_done.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/ic_ab_done.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_profile_default_icon.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_profile_default_icon.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_twi_btn_pressed.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/twi_btn_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_vk_share_dialog.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/vk_share_dialog.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_list_section_header_background.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_list_section_header_background.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_picker_magnifier.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_picker_magnifier.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_navigation_accept.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/ic_navigation_accept.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_loginbutton_silver.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_loginbutton_silver.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_vk_captcha_dialog.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/vk_captcha_dialog.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_twi_btn_focused.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/twi_btn_focused.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_twi_btn_focused.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/twi_btn_focused.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_com_facebook_login_activity_layout.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/com_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_logo.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_logo.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4_com_facebook_close.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-ldpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_close.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_button_grey_focused.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_button_grey_pressed.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_twi_btn_focused.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/twi_btn_focused.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_com_facebook_button_blue_focused.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_twi_btn_pressed.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/twi_btn_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v11_ic_stat_twitter_bird_icon.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v11/ic_stat_twitter_bird_icon.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_button_grey_normal.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_profile_picture_blank_portrait.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_navigation_accept.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/ic_navigation_accept.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_navigation_accept.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/ic_navigation_accept.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_com_facebook_picker_checkbox.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/com_facebook_picker_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_picker_list_pressed.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_picker_list_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_picker_top_button.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_picker_top_button.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_picker_magnifier.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_picker_magnifier.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_button_blue_normal.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_com_facebook_search_bar_layout.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/com_facebook_search_bar_layout.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_picker_list_longpressed.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_picker_list_longpressed.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_com_facebook_picker_list_section_header.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/com_facebook_picker_list_section_header.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_button_grey_pressed.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_inverse_icon.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_twi_btn.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/twi_btn.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_profile_picture_blank_square.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-ru-xxhdpi-v4_ic_ab_app.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-ru-xxhdpi-v4/ic_ab_app.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_button_blue_pressed.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_com_facebook_picker_search_box.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/com_facebook_picker_search_box.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_action_twitter_bird_icon.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/ic_action_twitter_bird_icon.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_twi_btn_normal.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/twi_btn_normal.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_close.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_button_check.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_button_check.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_top_button.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_top_button.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_top_background.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_top_background.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_twi_btn_focused.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/twi_btn_focused.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_ab_app.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/ic_ab_app.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_ab_app.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/ic_ab_app.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_twi_btn_normal.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/twi_btn_normal.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_com_facebook_picker_title_bar_stub.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/com_facebook_picker_title_bar_stub.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_usersettingsfragment_background_gradient.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_usersettingsfragment_background_gradient.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_vk_share_send_button_background.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/vk_share_send_button_background.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_twi_btn_pressed.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/twi_btn_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_button_check_off.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_button_check_off.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_button_blue_focused.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_ab_done.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/ic_ab_done.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_com_facebook_inverse_icon.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_action_twitter_bird_icon.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/ic_action_twitter_bird_icon.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_tweet_auth_dialog.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/tweet_auth_dialog.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_ab_done.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/ic_ab_done.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_com_facebook_friendpickerfragment.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/com_facebook_friendpickerfragment.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_picker_list_selector_background_transition.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_picker_list_selector_background_transition.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_com_facebook_usersettingsfragment.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/com_facebook_usersettingsfragment.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_vk_clear_shape.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/vk_clear_shape.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_twi_btn_pressed.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/twi_btn_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_button_blue.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_button_blue.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_inverse_icon.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_button_blue_pressed.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_button_blue_pressed.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_com_facebook_picker_title_bar.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/com_facebook_picker_title_bar.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_button_grey_normal.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_button_check_on.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_button_check_on.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_close.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_com_facebook_picker_magnifier.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/com_facebook_picker_magnifier.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_com_facebook_placepickerfragment_list_row.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/com_facebook_placepickerfragment_list_row.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_logo.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_logo.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_picker_list_focused.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_picker_list_focused.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_picker_item_background.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_picker_item_background.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-ru-hdpi-v4_ic_ab_app.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-ru-hdpi-v4/ic_ab_app.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v11_ic_stat_twitter_bird_icon.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v11/ic_stat_twitter_bird_icon.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_ab_app.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/ic_ab_app.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_button_grey_focused.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_button_grey_focused.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_vk_gray_transparent_shape.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/vk_gray_transparent_shape.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable_com_facebook_picker_list_selector.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable/com_facebook_picker_list_selector.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_tweet_send_layout.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/tweet_send_layout.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_action_twitter_bird_icon.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/ic_action_twitter_bird_icon.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v11_ic_stat_twitter_bird_icon.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xxhdpi-v11/ic_stat_twitter_bird_icon.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/layout_com_facebook_picker_activity_circle_row.xml.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/layout/com_facebook_picker_activity_circle_row.xml"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_ab_done.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xxhdpi-v4/ic_ab_done.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_twi_btn_normal.9.png.flat",
+        "source": "/Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/build/intermediates/packaged_res/debug/drawable-mdpi-v4/twi_btn_normal.9.png"
+    }
+]

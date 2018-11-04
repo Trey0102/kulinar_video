@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+    <ScrollView
+        android:id="@+id/scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp">
+            <LinearLayout
+                android:id="@+id/recipetop"
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:orientation="horizontal"
+                >
+                <RelativeLayout
+                    android:layout_width="130dp"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/recipepicbg"
+                    android:padding="10dp"
+                    >
+                    <ImageView
+                        android:id="@+id/recipeImage"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/woodbg"
+                        android:scaleType="centerCrop"
+                        />
+
+                </RelativeLayout>
+
+                <EditText
+                    android:id="@+id/recipeName"
+                    android:layout_width="0dp"
+                    android:layout_weight="5"
+                    android:layout_height="match_parent"
+                    android:text="Кофе Александр"
+                    android:textColor="#493322"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:gravity="center_vertical"
+                    />
+                <LinearLayout
+                    android:visibility="gone"
+                    android:layout_width="40dp"
+                    android:layout_weight="0"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    >
+                    <ImageView
+                        android:id="@+id/fb"
+
+                        android:layout_width="40dp"
+                        android:layout_height="0dp"
+                        android:src="@drawable/fblogo"
+                        android:scaleType="fitCenter"
+                        android:layout_weight="1"/>
+                    <ImageView
+                        android:id="@+id/vk"
+                        android:layout_marginTop="5dp"
+                        android:layout_width="40dp"
+                        android:layout_height="0dp"
+                        android:src="@drawable/vklogo"
+                        android:scaleType="fitCenter"
+                        android:layout_weight="1"/>
+                    <ImageView
+                        android:id="@+id/twi"
+                        android:layout_marginTop="5dp"
+                        android:layout_width="40dp"
+                        android:layout_height="0dp"
+                        android:src="@drawable/twitterlogo"
+                        android:scaleType="fitCenter"
+                        android:layout_weight="1"/>
+                    <ImageView
+                        android:id="@+id/share"
+                        android:layout_width="40dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_height="0dp"
+                        android:src="@drawable/shareico"
+                        android:scaleType="fitCenter"
+                        android:layout_weight="1"
+                        />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/sortbuttons"
+                android:visibility="gone"
+                android:layout_below="@+id/recipetop"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <Button
+                        android:id="@+id/buttonhot"
+                        android:text="горячее"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content" />
+                    <Button
+                        android:id="@+id/buttonsoup"
+                        android:text="Суп"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content" />
+                    <Button
+                        android:id="@+id/buttonbaking"
+                        android:text="Выпечка"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content" />
+                    <Button
+                        android:id="@+id/buttonsnack"
+                        android:text="закуска"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content" />
+                    <Button
+                        android:id="@+id/buttonsalad"
+                        android:text="салат"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <Button
+                        android:id="@+id/buttonbreak"
+                        android:text="завтрак"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content" />
+                    <Button
+                        android:id="@+id/buttonsauce"
+                        android:text="соус"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content" />
+                    <Button
+                        android:id="@+id/buttondeset"
+                        android:text="десерт"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content" />
+                    <Button
+                        android:id="@+id/buttondrinks"
+                        android:text="напиток"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content" />
+                    <Button
+                        android:id="@+id/buttonvtopku"
+                        android:text="втопку"
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/recipeText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/sortbuttons"
+                android:textColor="#3b291b"
+                android:textSize="18sp"
+                />
+            <LinearLayout android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/photos"
+                android:layout_below="@+id/recipeText">
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+
+    </ScrollView>
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/loadnext"
+        android:text="loadnext"/>
+    <TextView
+        android:id="@+id/bakeprogress"
+        android:background="#fff"
+        android:text="Осталось рецептов: много"
+        android:textColor="#00b"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</RelativeLayout>

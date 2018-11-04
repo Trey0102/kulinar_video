@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:3:11-37
+		INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml
+		INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:5:11-36
+		INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml
+		INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:4:11-34
+		INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml
+		INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:9:22-78
+application
+ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:13:5-22:19
+activity#com.sharelib.SocialShareActivity
+ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:15:9-68
+	android:name
+		ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:15:19-66
+activity#com.vk.sdk.VKOpenAuthActivity
+ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:16:9-65
+	android:name
+		ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:16:19-63
+activity#com.facebook.LoginActivity
+ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:17:9-62
+	android:name
+		ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:17:19-60
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:19:9-98
+	android:value
+		ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:19:66-96
+	android:name
+		ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:19:20-65
+meta-data#com.facebook.sdk.ClientToken
+ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:20:9-99
+	android:value
+		ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:20:64-97
+	android:name
+		ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml:20:20-63
+uses-sdk
+INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml
+INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml
+INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml
+INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml
+		ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml
+		INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml
+		ADDED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml
+		INJECTED from /Users/Azamat_Nurzhanuly/Downloads/Kulinar 2/MyApplication/__SocialShareLib/src/main/AndroidManifest.xml

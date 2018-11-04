@@ -1,0 +1,154 @@
+﻿{
+  "categoryName": "adv",
+  "fileName": 1686,
+  "fromForum": false,
+  "isFavorited": false,
+  "photos": [
+    {
+      "albumId": "-7",
+      "date": 1445447524,
+      "height": "480",
+      "id": "386300610",
+      "ownerId": "-32231484",
+      "photoUrls": [
+        "http://cs7058.vk.me/c7005/v7005137/39eae/6TcoBOGswZw.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39eaf/z591LySAKL4.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39eb0/SavR7CSjVMc.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39eb1/DZvQEMsY4ec.jpg"
+      ],
+      "text": "",
+      "userId": "100",
+      "width": "723"
+    },
+    {
+      "albumId": "-7",
+      "date": 1445447524,
+      "height": "480",
+      "id": "386300611",
+      "ownerId": "-32231484",
+      "photoUrls": [
+        "http://cs7058.vk.me/c7005/v7005137/39eb6/2m0PTWqIos0.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39eb7/J_5UiYwLSVs.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39eb8/Rbv1xLiW99k.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39eb9/8do8gukT7qA.jpg"
+      ],
+      "text": "",
+      "userId": "100",
+      "width": "723"
+    },
+    {
+      "albumId": "-7",
+      "date": 1445447524,
+      "height": "480",
+      "id": "386300612",
+      "ownerId": "-32231484",
+      "photoUrls": [
+        "http://cs7058.vk.me/c7005/v7005137/39ebe/aKtaX3PEtOI.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ebf/o3OrZVfzgnE.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ec0/0Z9nX1RBqSI.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ec1/ZvQLeJQRpKI.jpg"
+      ],
+      "text": "",
+      "userId": "100",
+      "width": "723"
+    },
+    {
+      "albumId": "-7",
+      "date": 1445447524,
+      "height": "480",
+      "id": "386300613",
+      "ownerId": "-32231484",
+      "photoUrls": [
+        "http://cs7058.vk.me/c7005/v7005137/39ec6/QxJUOL0tqps.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ec7/66XpEBlNLtc.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ec8/V3Gtz-22emo.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ec9/QWP8SZ0sqOY.jpg"
+      ],
+      "text": "",
+      "userId": "100",
+      "width": "723"
+    },
+    {
+      "albumId": "-7",
+      "date": 1445447524,
+      "height": "480",
+      "id": "386300615",
+      "ownerId": "-32231484",
+      "photoUrls": [
+        "http://cs7058.vk.me/c7005/v7005137/39ece/nytT-5qJhro.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ecf/izTgIEYyXs0.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ed0/QmmlJHVRqlo.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ed1/27bsCdp3xO8.jpg"
+      ],
+      "text": "",
+      "userId": "100",
+      "width": "723"
+    },
+    {
+      "albumId": "-7",
+      "date": 1445447524,
+      "height": "480",
+      "id": "386300616",
+      "ownerId": "-32231484",
+      "photoUrls": [
+        "http://cs7058.vk.me/c7005/v7005137/39ed6/ApiKTxmcU7w.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ed7/9rC7XKmYVic.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ed8/io7ltMNarpw.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ed9/e1mBPvuLz7Q.jpg"
+      ],
+      "text": "",
+      "userId": "100",
+      "width": "723"
+    },
+    {
+      "albumId": "-7",
+      "date": 1445447524,
+      "height": "480",
+      "id": "386300617",
+      "ownerId": "-32231484",
+      "photoUrls": [
+        "http://cs7058.vk.me/c7005/v7005137/39ede/o4ywIDxvpn0.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39edf/Dgp7dnx6P20.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ee0/0QtKtbdFw1s.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ee1/kATAhACRYUs.jpg"
+      ],
+      "text": "",
+      "userId": "100",
+      "width": "723"
+    },
+    {
+      "albumId": "-7",
+      "date": 1445447524,
+      "height": "480",
+      "id": "386300618",
+      "ownerId": "-32231484",
+      "photoUrls": [
+        "http://cs7058.vk.me/c7005/v7005137/39ee6/PTwhFBu9YHM.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ee7/JJEmZz6F1qk.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ee8/AmJRHkUfjh4.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ee9/UA5frorTmW8.jpg"
+      ],
+      "text": "",
+      "userId": "100",
+      "width": "723"
+    },
+    {
+      "albumId": "-7",
+      "date": 1445447524,
+      "height": "480",
+      "id": "386300619",
+      "ownerId": "-32231484",
+      "photoUrls": [
+        "http://cs7058.vk.me/c7005/v7005137/39eee/skWP_yALLNE.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39eef/QqHhHaSBcwQ.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ef0/bvo9Qv1CIvc.jpg",
+        "http://cs7058.vk.me/c7005/v7005137/39ef1/0knC0JGvA98.jpg"
+      ],
+      "text": "",
+      "userId": "100",
+      "width": "723"
+    }
+  ],
+  "recipeName": "Пирог Золотая рыбка",
+  "recipeText": "\n\nИнгредиенты:\n\n2 банки рыбных консервов\n0,5 стакана риса,\n2 сваренных вкрутую яйца,\n1 луковица,\n2 пачки (1000 г) готового слоеного бездрожжевого теста,\n50 г сливочного масла,\nсоль, перец,\nяйцо для смазывания.\n\nПриготовление:\n\nРис отварить почти до готовности, лучше немного не доварить. Промыть, чтобы он стал рассыпчатым. Мелко порезать луковицу и обжарить на сливочном масле до золотистого цвета. Добавить мелко порубленные яйца и рис. Перемешать. Тесто немного раскатать, припылить мукой, сложить вдоль пополам, вырезать половину рыбки со сгибом в центре, развернуть. Переложить рыбку на противень, застеленный бумагой для выпечки.\n\nРаскатать вторую половину теста, часть нарезать на полоски шириной 1,5 см – это будут бортики пирога. Яйцо разболтать со столовой ложкой воды, аккуратно смазать края вырезанной рыбки и приклеить на них полоски теста. Так же приклеить второй ряд. В итоге должна получиться «коробочка» из теста в форме рыбы. Выложить на тесто рис с яйцом, сверху положить размятую вилкой рыбу. Из остатков теста вырезать хвост и голову рыбы, а остальное тесто нарезать подходящей рюмочкой на кружки – чешую. Собрать рыбку, склеивая детали взболтанным яйцом. Смазать рыбку яйцом и выпекать в предварительно нагретой до 1800 С духовке до полной готовности (около 40 минут)."
+}

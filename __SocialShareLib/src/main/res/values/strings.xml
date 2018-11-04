@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_id">607908859313430</string>
+    <string name="app_token">20cbedd7ebbb2351cf9d7c233d6a8e69</string>
+
+    <string name="tweet_dialog_title">Compose New Tweet</string>
+    <string name="tweet_dialog_button_send">Tweet</string>
+    <string name="tweet_dialog_button_cancel">Cancel</string>
+    <string name="twitter_auth_wait">Please wait…</string>
+    <string name="tweet_notification_title">Twitter</string>
+    <string name="tweet_being_sent">Tweet is being sent…</string>
+    <string name="tweet_send_success">Tweet posted successfully</string>
+    <string name="tweet_send_failure">Tweet sending failure</string>
+    <string name="tweet_img_warn">Please note, only 4 images allowed per Tweet</string>
+    <string name="twitter_logout_text">Twitter: Logged out</string>
+
+    <string name="vk_enter_captcha_text">Enter captcha text here</string>
+    <string name="vk_retry">Retry</string>
+    <string name="vk_send">Send</string>
+    <string name="vk_share">Share</string>
+    <string name="vk_new_message_text">Enter your message..</string>
+    <string name="vk_new_post_settings">Post settings</string>
+    <string name="vk_posted">VK: Posted successfully</string>
+    <string name="vk_click">Click to see the post in browser</string>
+    <string name="vk_logout">VK: Logged out</string>
+    <string name="tweet_hint">Enter message..</string>
+    <string name="download_please_wait">Please wait</string>
+
+
+	<string name="com_facebook_dialogloginactivity_ok_button">OK</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_log_in_button">Log in with Facebook</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_logo_content_description">Facebook Logo</string>
+    <string name="com_facebook_usersettingsfragment_log_in_button">Log in&#8230;</string>
+    <string name="com_facebook_usersettingsfragment_logged_in">Logged in</string>
+    <string name="com_facebook_usersettingsfragment_not_logged_in">Not logged in</string>
+    <string name="com_facebook_placepicker_subtitle_format">%1$s • %2$,d were here</string>
+    <string name="com_facebook_placepicker_subtitle_catetory_only_format">%1$s</string>
+    <string name="com_facebook_placepicker_subtitle_were_here_only_format">%1$,d were here</string>
+    <string name="com_facebook_picker_done_button_text">Done</string>
+    <string name="com_facebook_choose_friends">Choose Friends</string>
+    <string name="com_facebook_nearby">Nearby</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_requesterror_web_login">Your Facebook account is locked. Please log into www.facebook.com to continue.</string>
+    <string name="com_facebook_requesterror_relogin">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_password_changed">Your Facebook password has changed. Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_reconnect">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_permissions">This app doesn’t have permission to do this. To change permissions, try logging into the app again.</string>
+    <string name="com_facebook_tooltip_default">New! You\'re in control - choose what info you want to share with apps.</string>
+
+    <string name="fb_story_posted">Story published on Facebook!</string>
+    <string name="fb_story_cancelled">Publish cancelled</string>
+    <string name="fb_story_error">Error posting story</string>
+
+</resources>

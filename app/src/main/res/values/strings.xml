@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">Кулинарная книга</string>
+  <string name="action_settings">Settings</string>
+  <string name="app_id">607908859313430</string>
+  <string name="app_token">20cbedd7ebbb2351cf9d7c233d6a8e69</string>
+  <string name="admob_id">ca-app-pub-2612953220881582/2564822756</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
